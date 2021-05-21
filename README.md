@@ -28,7 +28,7 @@
         <aside>
             <div id="namecard">
                 <img src="images/pf.jpg" alt="">
-                <h1>psrk se eun</h1>    
+                <h1>park se eun</h1>    
                 <p>오늘은 남은 인생이 시작되는 첫째</p>
             </div>
             <div id="detail">
